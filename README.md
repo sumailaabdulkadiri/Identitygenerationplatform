@@ -1,4 +1,4 @@
-# Identitygenerationplatform
+# Student_Identity_Card_generation_platform
 
 Automated Identity Card Generation and Verification Platform is an automated system through which users (TLU students) can auto generate identification cards and also get to verify already generated identity card.
 
